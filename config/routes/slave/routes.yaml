@@ -1,0 +1,5 @@
+app_slave_create:
+  path:
+      en: /create
+      fr: /creer
+  controller: App\Controller\Slave\CreateController::create

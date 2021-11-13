@@ -1,0 +1,5 @@
+app_slave:
+    resource: 'slave/routes.yaml'
+    prefix:
+        en: /apprentice
+        fr: /apprenti
